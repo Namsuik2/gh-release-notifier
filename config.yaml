@@ -1,0 +1,46 @@
+---
+repos:
+  - JetBrains/intellij-community
+  - microsoft/vscode
+webhook:
+  content: |
+    {
+      "blocks": [
+        {
+          "type": "header",
+          "text": {
+            "type": "plain_text",
+            "text": "${repo_name}"
+          }
+        },
+        {
+          "type": "context",
+          "elements": [
+            {
+              "type": "mrkdwn",
+              "text": "*${published_at}*  |  :round_pushpin: ${tag_name}  |  ${id}"
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "section",
+          "text": {
+            "type": "mrkdwn",
+            "text": "*<${html_url}|${name}>*"
+          }
+        },
+        {
+          "type": "section",
+          "text": {
+            "type": "mrkdwn",
+            "text": "${body}"
+          }
+        }
+      ]
+    }
+  headers:
+    Content-Type: application/json
+timezone: Asia/Seoul
