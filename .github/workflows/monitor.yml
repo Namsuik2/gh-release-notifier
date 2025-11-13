@@ -3,6 +3,7 @@ name: Repo Release Monitor
 on:
   schedule:
     - cron: "0 0 * * 1-5"  # every UTC 00:00 MON-FRI
+  workflow_dispatch:
 
 permissions:
   contents: write
