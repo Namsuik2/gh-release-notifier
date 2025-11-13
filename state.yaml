@@ -12,3 +12,9 @@ states:
     name: October 2025
     published_at: 2025-11-12 18:16:34+00:00
     tag_name: 1.106.0
+  spring-projects/spring-boot:
+    html_url: https://github.com/spring-projects/spring-boot/releases/tag/v3.5.7
+    id: 256690438
+    name: v3.5.7
+    published_at: 2025-10-23 13:09:02+00:00
+    tag_name: v3.5.7
