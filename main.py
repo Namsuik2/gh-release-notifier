@@ -114,7 +114,7 @@ def main():
             id=release.id,
             html_url=release.html_url,
             tag_name=release.tag_name,
-            name=release.name,
+            name=release.name or release.tag_name,
             published_at=release.published_at,
         )
 
@@ -124,7 +124,7 @@ def main():
 
         log.info(
             f"{repo_name}: "
-            f"New release: {release.name} / {release.tag_name} / {release.published_at.isoformat()}"
+            f"New release: {release.name or release.tag_name} / {release.tag_name} / {release.published_at.isoformat()}"
         )
 
         # Send notification
@@ -140,9 +140,9 @@ def main():
                 id=release.id,
                 html_url=release.html_url,
                 tag_name=release.tag_name,
-                name=escape(release.name),
+                name=escape(release.name or release.tag_name),
                 published_at=release.published_at.astimezone(tz).isoformat(),
-                body=escape(release.body),
+                body=escape(release.body or ""),
             )
 
         try:

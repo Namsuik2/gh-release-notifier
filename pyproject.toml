@@ -1,5 +1,5 @@
 [project]
-name = "release-notifier"
+name = "gh-release-notifier"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
