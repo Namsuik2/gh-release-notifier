@@ -32,13 +32,6 @@ webhook:
             "type": "mrkdwn",
             "text": "*<${html_url}|${name}>*"
           }
-        },
-        {
-          "type": "section",
-          "text": {
-            "type": "mrkdwn",
-            "text": "${body}"
-          }
         }
       ]
     }
