@@ -1,17 +1,17 @@
 ---
 states:
   JetBrains/intellij-community:
-    html_url: https://github.com/JetBrains/intellij-community/releases/tag/pycharm/2025.3
-    id: 268289507
-    name: pycharm/2025.3
-    published_at: 2025-12-08 11:03:39+00:00
-    tag_name: pycharm/2025.3
+    html_url: https://github.com/JetBrains/intellij-community/releases/tag/idea/2025.2.6
+    id: 269223842
+    name: idea/2025.2.6
+    published_at: 2025-12-10 17:41:30+00:00
+    tag_name: idea/2025.2.6
   microsoft/vscode:
-    html_url: https://github.com/microsoft/vscode/releases/tag/1.106.3
-    id: 265439624
-    name: October 2025 Recovery 3
-    published_at: 2025-11-26 12:20:27+00:00
-    tag_name: 1.106.3
+    html_url: https://github.com/microsoft/vscode/releases/tag/1.107.0
+    id: 269240526
+    name: November 2025
+    published_at: 2025-12-10 18:28:37+00:00
+    tag_name: 1.107.0
   spring-projects/spring-boot:
     html_url: https://github.com/spring-projects/spring-boot/releases/tag/v4.0.0
     id: 264082110
