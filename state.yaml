@@ -1,11 +1,11 @@
 ---
 states:
   JetBrains/intellij-community:
-    html_url: https://github.com/JetBrains/intellij-community/releases/tag/pycharm/2025.3.1.1
-    id: 276002346
-    name: pycharm/2025.3.1.1
-    published_at: 2026-01-12 12:51:18+00:00
-    tag_name: pycharm/2025.3.1.1
+    html_url: https://github.com/JetBrains/intellij-community/releases/tag/idea/2025.3.2
+    id: 279002676
+    name: idea/2025.3.2
+    published_at: 2026-01-22 13:07:32+00:00
+    tag_name: idea/2025.3.2
   microsoft/vscode:
     html_url: https://github.com/microsoft/vscode/releases/tag/1.108.1
     id: 277418115
@@ -13,8 +13,8 @@ states:
     published_at: 2026-01-16 14:28:23+00:00
     tag_name: 1.108.1
   spring-projects/spring-boot:
-    html_url: https://github.com/spring-projects/spring-boot/releases/tag/v4.0.1
-    id: 271529090
-    name: v4.0.1
-    published_at: 2025-12-18 17:50:24+00:00
-    tag_name: v4.0.1
+    html_url: https://github.com/spring-projects/spring-boot/releases/tag/v4.0.2
+    id: 279035032
+    name: v4.0.2
+    published_at: 2026-01-22 14:47:29+00:00
+    tag_name: v4.0.2
