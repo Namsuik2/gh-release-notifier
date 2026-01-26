@@ -7,11 +7,11 @@ states:
     published_at: 2026-01-22 13:07:32+00:00
     tag_name: idea/2025.3.2
   microsoft/vscode:
-    html_url: https://github.com/microsoft/vscode/releases/tag/1.108.1
-    id: 277418115
-    name: December 2025 Recovery 1
-    published_at: 2026-01-16 14:28:23+00:00
-    tag_name: 1.108.1
+    html_url: https://github.com/microsoft/vscode/releases/tag/1.108.2
+    id: 279512009
+    name: December 2025 Recovery 2
+    published_at: 2026-01-23 21:43:44+00:00
+    tag_name: 1.108.2
   spring-projects/spring-boot:
     html_url: https://github.com/spring-projects/spring-boot/releases/tag/v4.0.2
     id: 279035032
