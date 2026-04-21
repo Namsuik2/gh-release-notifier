@@ -7,11 +7,11 @@ states:
     published_at: 2026-03-30 12:50:45+00:00
     tag_name: pycharm/2026.1
   microsoft/vscode:
-    html_url: https://github.com/microsoft/vscode/releases/tag/v0.44.1
-    id: 309915674
-    name: v0.44.1
-    published_at: 2026-04-16 15:26:35+00:00
-    tag_name: v0.44.1
+    html_url: https://github.com/microsoft/vscode/releases/tag/v0.44.2
+    id: 311091911
+    name: copilot/0.44.2
+    published_at: 2026-04-20 09:28:43+00:00
+    tag_name: v0.44.2
   spring-projects/spring-boot:
     html_url: https://github.com/spring-projects/spring-boot/releases/tag/v4.0.5
     id: 301789119
