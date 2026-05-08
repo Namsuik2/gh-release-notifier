@@ -1,11 +1,11 @@
 ---
 states:
   JetBrains/intellij-community:
-    html_url: https://github.com/JetBrains/intellij-community/releases/tag/idea/2025.3.5
-    id: 318446108
-    name: idea/2025.3.5
-    published_at: 2026-05-06 14:36:01+00:00
-    tag_name: idea/2025.3.5
+    html_url: https://github.com/JetBrains/intellij-community/releases/tag/pycharm/2025.3.5
+    id: 318845455
+    name: pycharm/2025.3.5
+    published_at: 2026-05-07 09:31:20+00:00
+    tag_name: pycharm/2025.3.5
   microsoft/vscode:
     html_url: https://github.com/microsoft/vscode/releases/tag/1.119.0
     id: 318254349
