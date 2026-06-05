@@ -1,11 +1,11 @@
 ---
 states:
   JetBrains/intellij-community:
-    html_url: https://github.com/JetBrains/intellij-community/releases/tag/idea/2025.3.6
-    id: 333660294
-    name: idea/2025.3.6
-    published_at: 2026-06-03 11:14:12+00:00
-    tag_name: idea/2025.3.6
+    html_url: https://github.com/JetBrains/intellij-community/releases/tag/idea/2026.1.3
+    id: 334277043
+    name: idea/2026.1.3
+    published_at: 2026-06-04 10:57:17+00:00
+    tag_name: idea/2026.1.3
   microsoft/vscode:
     html_url: https://github.com/microsoft/vscode/releases/tag/1.123
     id: 333780715
