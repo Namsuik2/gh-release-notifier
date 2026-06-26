@@ -13,8 +13,8 @@ states:
     published_at: 2026-06-24 12:49:34+00:00
     tag_name: 1.126.0
   spring-projects/spring-boot:
-    html_url: https://github.com/spring-projects/spring-boot/releases/tag/v4.1.0
-    id: 337432455
-    name: v4.1.0
-    published_at: 2026-06-10 18:21:42+00:00
-    tag_name: v4.1.0
+    html_url: https://github.com/spring-projects/spring-boot/releases/tag/v3.5.16
+    id: 344656767
+    name: v3.5.16
+    published_at: 2026-06-25 11:00:26+00:00
+    tag_name: v3.5.16
