@@ -7,11 +7,11 @@ states:
     published_at: 2026-07-16 13:32:03+00:00
     tag_name: idea/2026.2
   microsoft/vscode:
-    html_url: https://github.com/microsoft/vscode/releases/tag/1.129.0
-    id: 354739843
-    name: 1.129.0
-    published_at: 2026-07-15 22:13:23+00:00
-    tag_name: 1.129.0
+    html_url: https://github.com/microsoft/vscode/releases/tag/1.129.1
+    id: 355932954
+    name: 1.129.1
+    published_at: 2026-07-17 21:32:58+00:00
+    tag_name: 1.129.1
   spring-projects/spring-boot:
     html_url: https://github.com/spring-projects/spring-boot/releases/tag/v4.1.0
     id: 337432455
