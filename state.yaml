@@ -7,11 +7,11 @@ states:
     published_at: 2026-09-18 15:43:23+00:00
     tag_name: pycharm/2026.2.3
   microsoft/vscode:
-    html_url: https://github.com/microsoft/vscode/releases/tag/1.138.0
-    id: 389704946
-    name: 1.138.0
-    published_at: 2026-09-16 07:14:47+00:00
-    tag_name: 1.138.0
+    html_url: https://github.com/microsoft/vscode/releases/tag/1.139.0
+    id: 394548774
+    name: 1.139.0
+    published_at: 2026-09-23 10:32:34+00:00
+    tag_name: 1.139.0
   spring-projects/spring-boot:
     html_url: https://github.com/spring-projects/spring-boot/releases/tag/v4.1.1
     id: 373997806
