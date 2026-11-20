@@ -1,11 +1,11 @@
 ---
 states:
   JetBrains/intellij-community:
-    html_url: https://github.com/JetBrains/intellij-community/releases/tag/pycharm/2026.2.5
-    id: 444283491
-    name: pycharm/2026.2.5
-    published_at: 2026-11-13 13:47:46+00:00
-    tag_name: pycharm/2026.2.5
+    html_url: https://github.com/JetBrains/intellij-community/releases/tag/pycharm/2026.3.0.1
+    id: 451064881
+    name: pycharm/2026.3.0.1
+    published_at: 2026-11-19 08:33:34+00:00
+    tag_name: pycharm/2026.3.0.1
   microsoft/vscode:
     html_url: https://github.com/microsoft/vscode/releases/tag/1.147.0
     id: 449777665
